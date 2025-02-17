@@ -15,30 +15,30 @@ You can keep up to date by watching this GitHub repo 🤩
 
 ## Table of Contents
 
-* [🌟 Editor's Choice](#🌟-editors-choice)
-* [📝 Articles](#📝-articles)
-* [✍️ Blogs](#✍️-blogs)
-* [📚 Books](#📚-books)
-* [📜 Certifications](#📜-certifications)
-* [💻 Code](#💻-code)
-* [🎤 Conferences](#🎤-conferences)
-* [👩‍🏫 Courses](#👩‍🏫-courses)
-* [📰 News](#📰-news)
-* [🤝 Initiatives](#🤝-initiatives)
-* [📋 Reports](#📋-reports)
-* [📐 Standards](#📐-standards)
-* [📺 Videos](#📺-videos)
-* [📄 Whitepapers](#📄-whitepapers)
-* [👷🏼 Working Groups](#👷🏼-working-groups)
-* [👾 Miscellaneous](#👾-miscellaneous)
-* [🏁 Meta](#🏁-meta)
+* [🌟 Editor's Choice](#top-picks)
+* [📝 Articles](#articles)
+* [✍️ Blogs](#blogs)
+* [📚 Books](#books)
+* [📜 Certifications](#certifications)
+* [💻 Code](#code)
+* [🎤 Conferences](#conferences)
+* [👩‍🏫 Courses](#courses)
+* [📰 News](#news)
+* [🤝 Initiatives](#initiatives)
+* [📋 Reports](#reports)
+* [📐 Standards](#standards)
+* [📺 Videos](#videos)
+* [📄 Whitepapers](#whitepapers)
+* [👷🏼 Working Groups](#working-groups)
+* [👾 Miscellaneous](#miscellaneous)
+* [🏁 Meta](#meta)
 
-## 🌟 Editor's Choice
+## <a id="top-picks"></a>🌟 Editor's Choice
 
 * [An introduction to trustworthy AI](https://www.semanticscholar.org/paper/Trustworthy-AI-Part-1-Mariani-Rossi/2e550e23511711dae2689322741f9c113c6c506f) by NVIDIA
 * [Lessons-learned from red teaming hundreds of generative AI products](https://arxiv.org/abs/2501.07238) by Microsoft
 
-## 📝 Articles
+## <a id="articles"></a>📝 Articles
 
 * (Bach *et al.*, 2024) [Unpacking Human-AI Interaction in Safety-Critical Industries: A Systematic Literature Review](https://ieeexplore.ieee.org/document/10620168)
 * (Bloomfield & Rushby, 2025) [Where AI Assurance Might Go Wrong: Initial lessons from engineering of critical systems](https://arxiv.org/abs/2502.03467)
@@ -54,39 +54,39 @@ You can keep up to date by watching this GitHub repo 🤩
 * (Tambon *et al.*, 2021) [How to Certify Machine Learning Based Safety-critical Systems? A Systematic Literature Review](https://arxiv.org/abs/2107.12045)
 * (Wang & Chung, 2021) [Artificial intelligence in safety-critical systems: a systematic review](https://www.semanticscholar.org/paper/Artificial-intelligence-in-safety-critical-systems%3A-Wang-Chung/dd56d26b7efd78651f9abf530741da8de7ca1a69)
 
-## ✍️ Blogs
+## <a id="blogs"></a>✍️ Blogs
 
 * (CleverHans Lab, 2016) [Breaking things is easy](https://cleverhans.io/security/privacy/ml/2016/12/16/breaking-things-is-easy.html)
 * (MathWorks, 2023) [The Road to AI Certification: The importance of Verification and Validation in AI](https://blogs.mathworks.com/deep-learning/2023/07/11/the-road-to-ai-certification-the-importance-of-verification-and-validation-in-ai)
 * (restack, 2025) [Safety In Critical AI Systems](https://www.restack.io/p/ai-application-safety-protocols-answer-safety-in-critical-ai-systems-cat-ai)
 * (think AI, 2024) [Artificial Intelligence in Safety-Critical Systems](https://medium.com/think-ai/ai-in-safety-critical-systems-6b778f26c965)
 
-## 📚 Books
+## <a id="books"></a>📚 Books
 
 * (Chen *et al.*, 2022) [Reliable Machine Learning: Applying SRE Principles to ML in Production](https://www.amazon.com/Reliable-Machine-Learning-Principles-Production/dp/1098106229)
 * (Huang, Jin & Ruan, 2023) [Machine Learning Safety](https://link.springer.com/book/10.1007/978-981-19-6814-3)
 * (Huyen, 2022) [Designing Machine Learning Systems: An Iterative Process for Production-Ready Applications](https://www.amazon.com/Designing-Machine-Learning-Systems-Production-Ready/dp/1098107969?&_encoding=UTF8&tag=chiphuyen-20&linkCode=ur2&linkId=0a1dbab0e76f5996e29e1a97d45f14a5&camp=1789&creative=9325)
 * (Tran, 2024) [Artificial Intelligence for Safety and Reliability Engineering: Methods, Applications, and Challenges](https://link.springer.com/book/10.1007/978-3-031-71495-5)
 
-## 📜 Certifications
+## <a id="certifications"></a>📜 Certifications
 
 * (ISTQB) [Certified Tester AI Testing (CT-AI)](https://www.istqb.org/certifications/certified-tester-ai-testing-ct-ai/)
 
-## 💻 Code
+## <a id="code"></a>💻 Code
 
 * [`daviddao/awful-ai`](https://github.com/daviddao/awful-ai): a curated list to track current scary usages of AI hoping to raise awareness to its misuses in society
 * [`explodinggradients/ragas`](https://github.com/explodinggradients/ragas): objective metrics, intelligent test generation, and data-driven insights for LLM apps
 * [`RobustBench/robustbench`](https://github.com/RobustBench/robustbench): a standardized adversarial robustness benchmark
 * [`trust-ai/SafeBench`](https://github.com/trust-ai/SafeBench): a benchmark for evaluating Autonomous Vehicles in safety-critical scenarios
 
-## 🎤 Conferences
+## <a id="conferences"></a>🎤 Conferences
 
 * (ELLIS) [Robust ML Workshop 2024](https://sites.google.com/view/robustml2024/home)
 * (MLOps Community) [AI in Production 2024](https://home.mlops.community/public/collections/ai-in-production-2024-02-18)
 * (MLOps Community) [LLMs in Production 2023](https://home.mlops.community/public/collections/llms-in-production-conference-part-iii-2023)
 * (Robust Intelligence) [ML:Integrity 2022](https://www.mlintegrityconference.com/)
 
-## 👩‍🏫 Courses
+## <a id="courses"></a>👩‍🏫 Courses
 
 * [AI for Good Specialization](https://www.deeplearning.ai/courses/ai-for-good/) @ DeepLearning.AI
 * [Machine Learning for Healthcare](https://mlhcmit.github.io/) @ MIT
@@ -96,12 +96,12 @@ You can keep up to date by watching this GitHub repo 🤩
 * [Trustworthy Artificial Intelligence](https://trustworthy-ml-course.github.io/) @ University of Michigan, Dearborn
 * [Trustworthy Machine Learning](https://scalabletrustworthyai.github.io) @ University of Tübingen
 
-## 📰 News
+## <a id="news"></a>📰 News
 
 * (elewit, 2024) [Are you aware of the challenges around AI in critical infrastructure management? Discover how it's transforming the industry](https://www.elewit.ventures/en/news/are-you-aware-of-challenges-around-ia-in-critical-infraestructure-management-discover-how-it-transforming-industry)
 * (Water Power Magazine, 2024) [DHS releases framework to guide AI use in critical infrastructure](https://www.waterpowermagazine.com/news/dhs-releases-framework-to-guide-ai-use-in-critical-infrastructure/)
 
-## 🤝 Initiatives
+## <a id="initiatives"></a>🤝 Initiatives
 
 * (Data, Responsible) [Foundations of responsible data management](https://dataresponsibly.github.io/)
 * (DEEL) [Dependable, Certifiable & Explainable Artificial Intelligence for Critical Systems](https://www.deel.ai/)
@@ -114,7 +114,7 @@ You can keep up to date by watching this GitHub repo 🤩
 * [Responsible AI Institute](https://www.responsible.ai/)
 * [Center for Responsible AI](https://centerforresponsible.ai/)
 
-## 📋 Reports
+## <a id="reports"></a>📋 Reports
 
 * (Air Street Capital) [State of AI Report 2024](https://www.stateof.ai/)
 * (Google) [Responsible AI Progress Report 2025](https://ai.google/static/documents/ai-responsibility-update-published-february-2025.pdf)
@@ -124,14 +124,14 @@ You can keep up to date by watching this GitHub repo 🤩
 * (Microsoft) [Responsible AI Transparency Report 2024](https://www.microsoft.com/en-us/corporate-responsibility/responsible-ai-transparency-report)
 * (PwC) [US Responsible AI Survey](https://www.pwc.com/us/en/tech-effect/ai-analytics/responsible-ai-survey.html)
 
-## 📐 Standards
+## <a id="standards"></a>📐 Standards
 
 * [ISO/IEC 23053:2022](https://www.iso.org/standard/74438.html) > Framework for Artificial Intelligence (AI) Systems Using Machine Learning (ML)
 * [ISO/IEC 23894:2023](https://www.iso.org/standard/77304.html) > Information technology — Artificial intelligence — Guidance on risk management
 * [ISO/IEC 38507:2022](https://www.iso.org/standard/56641.html) > Information technology — Governance of IT — Governance implications of the use of artificial intelligence by organizations
 * [ISO/IEC 42001:2023](https://www.iso.org/standard/81230.html) > Information technology — Artificial intelligence — Management system
 
-## 📺 Videos
+## <a id="videos"></a>📺 Videos
 
 <!-- TODO: include video summary -->
 
@@ -143,24 +143,24 @@ You can keep up to date by watching this GitHub repo 🤩
 * (Stanford, 2024) [Best of - AI and safety critical systems](https://www.youtube.com/watch?v=t5NN0ilvcIk)
 * (valgrAI, 2024) [Integrating machine learning into safety-critical systems](https://www.youtube.com/watch?v=HSxwnuxaCoo) with Thomas Dietterich
 
-## 📄 Whitepapers
+## <a id="whitepapers"></a>📄 Whitepapers
 
 * (Homeland Security) [Roles and Responsibilities Framework for Artificial Intelligence in Critical Infrastructure](https://www.dhs.gov/publication/roles-and-responsibilities-framework-artificial-intelligence-critical-infrastructure)
 * (IET) [The Application of Artificial Intelligence in Functional Safety](https://electrical.theiet.org/guidance-and-codes-of-practice/publications-by-category/artificial-intelligence/the-application-of-artificial-intelligence-in-functional-safety/)
 * (Thales) [The Challenges of using AI in Critical Systems](https://www.thalesgroup.com/en/worldwide/group/magazine/challenges-using-ai-critical-systems)
 
-## 👷🏼 Working Groups
+## <a id="working-groups"></a>👷🏼 Working Groups
 
 * (EUROCAE) [WG-114 / Artificial Intelligence](https://eurocae.net/news/posts/2019/june/new-working-group-wg-114-artificial-intelligence/)
 * (Linux Foundation) [ONNX Safety-Related Profile](https://github.com/ericjenn/working-groups/tree/ericjenn-srpwg-wg1/safety-related-profile)
 
-## 👾 Miscellaneous
+## <a id="miscellaneous"></a>👾 Miscellaneous
 
 * [CISA's Roadmap for Artificial Intelligence](https://www.cisa.gov/ai)
 * [Responsible AI at Stanford](https://uit.stanford.edu/security/responsibleai)
 * [RobustML](https://robust-ml.github.io/): community-run hub for learning about robust ML
 
-## 🏁 Meta
+## <a id="meta"></a>🏁 Meta
 
 * [safety-critical-systems](https://github.com/topics/safety-critical-systems) GitHub topic
 * [Awesome Production ML](https://github.com/EthicalML/awesome-production-machine-learning): a curated list of awesome open source libraries that will help you deploy, monitor, version, scale, and secure your production machine learning
