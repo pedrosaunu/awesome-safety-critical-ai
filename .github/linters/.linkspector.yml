@@ -3,3 +3,4 @@ aliveStatusCodes:
   - 406
 dirs:
   - .
+baseUrl: https://github.com/JGalego/awesome-safety-critical-ai
