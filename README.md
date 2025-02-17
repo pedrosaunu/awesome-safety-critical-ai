@@ -1,7 +1,9 @@
-# Awesome Safety-Critical AI [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re) ![GitHub](https://img.shields.io/badge/License-MIT-lightgrey.svg) ![GitHub](https://img.shields.io/badge/Languages-MULTI-blue.svg) ![PR Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen) ![ ](https://img.shields.io/github/last-commit/JGalego/awesome-safety-critical-ai)
+# Awesome Safety-Critical AI
+
+[![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re) ![GitHub](https://img.shields.io/badge/License-MIT-lightgrey.svg) ![GitHub](https://img.shields.io/badge/Languages-MULTI-blue.svg) ![PR Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen) ![ ](https://img.shields.io/github/last-commit/JGalego/awesome-safety-critical-ai)
 
 
-## Welcome to Awesome Safety Critical AI!
+**Welcome to Awesome Safety Critical AI!**
 
 This repository contains a curated list of references on the role of AI in **safety-critical systems**, systems whose failure can result in loss of life, significant property damage or damage to the environment.
 
@@ -163,4 +165,5 @@ You can keep up to date by watching this GitHub repo 🤩
 * [safety-critical-systems](https://github.com/topics/safety-critical-systems) GitHub topic
 * [Awesome Production ML](https://github.com/EthicalML/awesome-production-machine-learning): a curated list of awesome open source libraries that will help you deploy, monitor, version, scale, and secure your production machine learning
 * [Awesome Trustworthy AI](https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning): list covering different topics in emerging research areas including but not limited to out-of-distribution generalization, adversarial examples, backdoor attack, model inversion attack, machine unlearning, &c.
-* [Awesome Responsible AI](https://github.com/AthenaCore/AwesomeResponsibleAI): a curated list of awesome academic research, books, code of ethics, courses, data sets, frameworks, institutes, maturity models, newsletters, principles, podcasts, reports, tools, regulations and standards related to Responsible, Trustworthy, and Human-Centered AI.
+* [Awesome Responsible AI](https://github.com/AthenaCore/AwesomeResponsibleAI): a curated list of awesome academic research, books, code of ethics, courses, data sets, frameworks, institutes, maturity models, newsletters, principles, podcasts, reports, tools, regulations and standards related to Responsible, Trustworthy, and Human-Centered AI
+* [Awesome Safety Critical](https://github.com/stanislaw/awesome-safety-critical): a list of resources about programming practices for writing safety-critical software
