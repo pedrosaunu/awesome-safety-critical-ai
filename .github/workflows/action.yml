@@ -1,8 +1,15 @@
 on: push
 name: Check links
 jobs:
-  markdown-link-check:
+  check-links:
+    name: runner / linkspector
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@master
-    - uses: gaurav-nelson/github-action-markdown-link-check@v1
+      - name: 📂 Checkout
+        uses: actions/checkout@v4
+      - name: 🧶 Run linkspector
+        uses: umbrelladocs/action-linkspector@v1
+        with:
+          config_file: .github/linters/.linkspector.yml
+          fail_on_error: true
+          filter_mode: nofilter
