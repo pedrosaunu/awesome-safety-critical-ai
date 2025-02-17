@@ -1,0 +1,12 @@
+theme: jekyll-theme-hacker
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - CITATION.cff
+  - CONTRIBUTING
+  - README.md
+  - LICENSE
+  - PULL_REQUEST_TEMPLATE.md
