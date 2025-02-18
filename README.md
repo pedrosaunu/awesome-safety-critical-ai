@@ -32,6 +32,8 @@ You can keep up to date by watching this GitHub repo 🤩
 * [👷🏼 Working Groups](#working-groups)
 * [👾 Miscellaneous](#miscellaneous)
 * [🏁 Meta](#meta)
+* [Contributions](#contributions)
+* [Citation](#citation)
 
 ## <a id="top-picks"></a>🌟 Editor's Choice
 
@@ -167,3 +169,21 @@ You can keep up to date by watching this GitHub repo 🤩
 * [Awesome Trustworthy AI](https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning): list covering different topics in emerging research areas including but not limited to out-of-distribution generalization, adversarial examples, backdoor attack, model inversion attack, machine unlearning, &c.
 * [Awesome Responsible AI](https://github.com/AthenaCore/AwesomeResponsibleAI): a curated list of awesome academic research, books, code of ethics, courses, data sets, frameworks, institutes, maturity models, newsletters, principles, podcasts, reports, tools, regulations and standards related to Responsible, Trustworthy, and Human-Centered AI
 * [Awesome Safety Critical](https://github.com/stanislaw/awesome-safety-critical): a list of resources about programming practices for writing safety-critical software
+
+## Contributions
+
+If you'd like to contribute to this repository, please read our [guidelines](CONTRIBUTING.md).
+
+We welcome [issues](https://github.com/JGalego/awesome-safety-critical-ai/issues) and [pull requests](https://github.com/JGalego/awesome-safety-critical-ai/pulls)!
+
+## Citation
+
+If you found this repository helpful, please consider citing it using the following:
+
+```bibtex
+@misc{Galego_Awesome_Safety-Critical_AI,
+  author = {Galego, João},
+  title = {{Awesome Safety-Critical AI}},
+  url = {https://github.com/JGalego/awesome-safety-critical-ai}
+}
+```
