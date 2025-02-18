@@ -16,6 +16,7 @@ You can keep up to date by watching this GitHub repo 🤩
 ## Table of Contents
 
 * [🌟 Editor's Choice](#top-picks)
+* [🏃 TLDR](#tldr)
 * [📝 Articles](#articles)
 * [✍️ Blogs](#blogs)
 * [📚 Books](#books)
@@ -40,6 +41,12 @@ You can keep up to date by watching this GitHub repo 🤩
 
 * [An introduction to trustworthy AI](https://www.semanticscholar.org/paper/Trustworthy-AI-Part-1-Mariani-Rossi/2e550e23511711dae2689322741f9c113c6c506f) by NVIDIA
 * [Lessons-learned from red teaming hundreds of generative AI products](https://arxiv.org/abs/2501.07238) by Microsoft
+
+## <a id="tldr"></a>🏃 TLDR
+
+If you're in a hurry or just don't like reading, here's a podcast-style breakdown created with [NotebookLM](https://notebooklm.google/) (courtesy of [Pedro Nunes](https://www.linkedin.com/in/umpedronunes/) 🙏)
+
+<a href="https://soundcloud.com/safety-critical-podcasts/safety-critical-ai-101-podcast"><img src="images/safety_critical_ai_podcast.png"/></a>
 
 ## <a id="articles"></a>📝 Articles
 
