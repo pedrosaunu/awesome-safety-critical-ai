@@ -4,4 +4,5 @@ aliveStatusCodes:
 dirs:
   - .
 ignorePatterns:
-  - pattern: "^#.*-[a-z]*"
+  # ignore ToC links
+  - pattern: "^#[a-z\-]*"
