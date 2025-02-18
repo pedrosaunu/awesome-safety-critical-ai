@@ -50,7 +50,7 @@ You can keep up to date by watching this GitHub repo 🤩
 * (Bullwinkel *et al.*, 2025) [Lessons From Red Teaming 100 Generative AI Products](https://arxiv.org/abs/2501.07238)
 * (Cummings, 2021) [Rethinking the Maturity of Artificial Intelligence in Safety-Critical Settings](https://ojs.aaai.org/aimagazine/index.php/aimagazine/article/view/7394)
 * (Dutta *et al.*, 2017) [Output range analysis for deep feedforward neural networks](https://arxiv.org/abs/1709.09130)
-* (Faria, 2018) [Machine learning safety: An overview](https://www.researchgate.net/profile/Jose-Faria-3/publication/320567319_Machine_Learning_Safety_An_Overview/links/59f37efda6fdcc075ec34986/Machine-Learning-Safety-An-Overview.pdf)
+* (Faria, 2018) [Machine learning safety: An overview](https://www.researchgate.net/publication/320567319_Machine_Learning_Safety_An_Overview)
 * (Johnson, 2018) [The Increasing Risks of Risk Assessment: On the Rise of Artificial Intelligence and Non-Determinism in Safety-Critical Systems](https://www.dcs.gla.ac.uk/~johnson/papers/SCSC_18.pdf)
 * (Kuwajima, Yasuoka & Nakae, 2020) [Engineering problems in machine learning systems](https://link.springer.com/article/10.1007/s10994-020-05872-w)
 * (Leofante *et al.*, 2018) [Automated Verification of Neural Networks: Advances, Challenges and Perspectives](https://arxiv.org/abs/1805.09938)
