@@ -1,7 +1,14 @@
-on: push
-name: Check links
+name: Check Markdown links
+
+on:
+  workflow_dispatch:
+  push:
+  pull_request:
+  schedule:
+    - cron: "0 0 1 * *"
+
 jobs:
-  check-links:
+  markdown-link-check:
     name: runner / linkspector
     runs-on: ubuntu-latest
     steps:
