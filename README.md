@@ -21,13 +21,13 @@ You can keep up to date by watching this GitHub repo 🤩
 * [✍️ Blogs](#blogs)
 * [📚 Books](#books)
 * [📜 Certifications](#certifications)
-* [💻 Code](#code)
 * [🎤 Conferences](#conferences)
 * [👩‍🏫 Courses](#courses)
 * [📰 News](#news)
 * [🤝 Initiatives](#initiatives)
 * [📋 Reports](#reports)
 * [📐 Standards](#standards)
+* [🛠️ Tools](#tools)
 * [📺 Videos](#videos)
 * [📄 Whitepapers](#whitepapers)
 * [👷🏼 Working Groups](#working-groups)
@@ -39,8 +39,11 @@ You can keep up to date by watching this GitHub repo 🤩
 
 ## <a id="top-picks"></a>🌟 Editor's Choice
 
-* [An introduction to trustworthy AI](https://www.semanticscholar.org/paper/Trustworthy-AI-Part-1-Mariani-Rossi/2e550e23511711dae2689322741f9c113c6c506f) by NVIDIA
-* [Lessons-learned from red teaming hundreds of generative AI products](https://arxiv.org/abs/2501.07238) by Microsoft
+* 😈 A collection of [scary use cases of AI](https://github.com/daviddao/awful-ai), hoping to raise awareness to its misuses in society
+* 💳 The now-classic [high-interest credit card of technical debt](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43146.pdf) paper by Google
+* 🤝 An introduction to [trustworthy AI](https://www.semanticscholar.org/paper/Trustworthy-AI-Part-1-Mariani-Rossi/2e550e23511711dae2689322741f9c113c6c506f) by NVIDIA
+* 🚩 Lessons-learned from [red teaming hundreds of generative AI products](https://arxiv.org/abs/2501.07238) by Microsoft
+* 🚨 Yet another [top 10 risks for LLM applications and Generative AI](https://genai.owasp.org/) by OWASP
 
 ## <a id="tldr"></a>🏃 TLDR
 
@@ -94,35 +97,11 @@ If you're in a hurry or just don't like reading, here's a podcast-style breakdow
 * (Huyen, 2022) [Designing Machine Learning Systems: An Iterative Process for Production-Ready Applications](https://www.amazon.com/Designing-Machine-Learning-Systems-Production-Ready/dp/1098107969?&_encoding=UTF8&tag=chiphuyen-20&linkCode=ur2&linkId=0a1dbab0e76f5996e29e1a97d45f14a5&camp=1789&creative=9325)
 * (Joseph *et al.*, 2019) [Adversarial Machine Learning](https://www.amazon.com/Adversarial-Machine-Learning-Anthony-Joseph/dp/1107043468)
 * (Tran, 2024) [Artificial Intelligence for Safety and Reliability Engineering: Methods, Applications, and Challenges](https://link.springer.com/book/10.1007/978-3-031-71495-5)
+* (Varshney, 2021) [Trust in Machine Learning](https://www.manning.com/books/trust-in-machine-learning-cx)
 
 ## <a id="certifications"></a>📜 Certifications
 
 * (ISTQB) [Certified Tester AI Testing (CT-AI)](https://www.istqb.org/certifications/certified-tester-ai-testing-ct-ai/)
-
-## <a id="code"></a>💻 Code
-
-* [`daviddao/awful-ai`](https://github.com/daviddao/awful-ai): a curated list to track current scary usages of AI hoping to raise awareness to its misuses in society
-* [`explodinggradients/ragas`](https://github.com/explodinggradients/ragas): objective metrics, intelligent test generation, and data-driven insights for LLM apps
-* [`pytorchfi/pytorchfi`](https://github.com/pytorchfi/pytorchfi): a runtime fault injection tool for PyTorch 🔥
-* [`RobustBench/robustbench`](https://github.com/RobustBench/robustbench): a standardized adversarial robustness benchmark
-* [`trust-ai/SafeBench`](https://github.com/trust-ai/SafeBench): a benchmark for evaluating Autonomous Vehicles in safety-critical scenarios
-
-## <a id="conferences"></a>🎤 Conferences
-
-* (ELLIS) [Robust ML Workshop 2024](https://sites.google.com/view/robustml2024/home)
-* (MLOps Community) [AI in Production 2024](https://home.mlops.community/public/collections/ai-in-production-2024-02-18)
-* (MLOps Community) [LLMs in Production 2023](https://home.mlops.community/public/collections/llms-in-production-conference-part-iii-2023)
-* (Robust Intelligence) [ML:Integrity 2022](https://www.mlintegrityconference.com/)
-
-## <a id="courses"></a>👩‍🏫 Courses
-
-* [AI for Good Specialization](https://www.deeplearning.ai/courses/ai-for-good/) @ DeepLearning.AI
-* [Machine Learning for Healthcare](https://mlhcmit.github.io/) @ MIT
-* [Machine Learning in Production](https://mlip-cmu.github.io/) @ Carnegie-Mellon University
-* [Responsible AI](https://github.com/aws-samples/aws-machine-learning-university-responsible-ai) @ Amazon MLU
-* [Robustness in Machine Learning](https://jerryzli.github.io/robust-ml-fall19.html) @ University of Washington
-* [Trustworthy Artificial Intelligence](https://trustworthy-ml-course.github.io/) @ University of Michigan, Dearborn
-* [Trustworthy Machine Learning](https://scalabletrustworthyai.github.io) @ University of Tübingen
 
 ## <a id="news"></a>📰 News
 
@@ -162,6 +141,67 @@ If you're in a hurry or just don't like reading, here's a podcast-style breakdow
 * [ISO/IEC 42001:2023](https://www.iso.org/standard/81230.html) > Information technology — Artificial intelligence — Management system
 * [SAE G-34](https://standardsworks.sae.org/standards-committees/g-34-artificial-intelligence-aviation) > Artificial Intelligence in Aviation
 
+## <a id="tools"></a>🛠️ Tools
+
+### Adversarial Attacks
+
+* [`bethgelab/foolbox`](https://github.com/bethgelab/foolbox): fast adversarial attacks to benchmark the robustness of ML models in PyTorch, TensorFlow and JAX
+* [`Trusted-AI/adversarial-robustness-toolbox`](https://github.com/Trusted-AI/adversarial-robustness-toolbox): a Python library for ML security - evasion, poisoning, extraction, inference - red and blue teams
+
+### Model Evaluation
+
+* [`confident-ai/deepeval`](https://github.com/confident-ai/deepeval): a simple-to-use, open-source LLM evaluation framework, for evaluating and testing LLM systems
+* [`RobustBench/robustbench`](https://github.com/RobustBench/robustbench): a standardized adversarial robustness benchmark
+* [`trust-ai/SafeBench`](https://github.com/trust-ai/SafeBench): a benchmark for evaluating Autonomous Vehicles in safety-critical scenarios
+
+### Model Fairness & Privacy
+
+* [`fairlearn/fairlearn`](https://github.com/fairlearn/fairlearn): a Python package to assess and improve fairness of ML models
+* [`pytorch/opacus`](https://github.com/pytorch/opacus): a library that enables training PyTorch models with differential privacy
+* [`tensorflow/privacy`](https://github.com/tensorflow/privacy): a library for training ML models with privacy for training data
+
+### Model Intepretability
+
+* [`pytorch/captum`](https://github.com/pytorch/captum): a model interpretability and understanding library for PyTorch
+* [`SeldonIO/alibi`](https://github.com/SeldonIO/alibi): a library aimed at ML model inspection and interpretation
+
+### Model Lifecycle
+
+* [`aimhubio/aim`](https://github.com/aimhubio/aim): an easy-to-use and supercharged open-source experiment tracker
+* [`comet-ml/opik`](https://github.com/comet-ml/opik): an open-source platform for evaluating, testing and monitoring LLM applications
+* [`IDSIA/sacred`](https://github.com/IDSIA/sacred): a tool to help you configure, organize, log and reproduce experiments
+* [`mlflow/mlflow`](https://github.com/mlflow/mlflow): an open-source platform for the ML lifecycle
+* [`wandb/wandfb`](https://github.com/wandb/wandb): a fully-featured AI developer platform
+
+### Model Security
+
+* [`ffhibnese/Model-Inversion-Attack-ToolBox`](https://github.com/ffhibnese/Model-Inversion-Attack-ToolBox): a comprehensive toolbox for model inversion attacks and defenses
+* [`protectai/llm-guard`](https://github.com/protectai/llm-guard): a comprehensive tool designed to fortify the security of LLMs
+
+### Model Testing & Validation
+
+* [`deepchecks/deepchecks`](https://github.com/deepchecks/deepchecks): an open-source package for validating ML models and data
+* [`explodinggradients/ragas`](https://github.com/explodinggradients/ragas): objective metrics, intelligent test generation, and data-driven insights for LLM apps
+* [`pytorchfi/pytorchfi`](https://github.com/pytorchfi/pytorchfi): a runtime fault injection tool for PyTorch 🔥
+
+## <a id="conferences"></a>🎤 Conferences
+
+* (ELLIS) [Robust ML Workshop 2024](https://sites.google.com/view/robustml2024/home)
+* (MLOps Community) [AI in Production 2024](https://home.mlops.community/public/collections/ai-in-production-2024-02-18)
+* (MLOps Community) [LLMs in Production 2023](https://home.mlops.community/public/collections/llms-in-production-conference-part-iii-2023)
+* (Robust Intelligence) [ML:Integrity 2022](https://www.mlintegrityconference.com/)
+
+## <a id="courses"></a>👩‍🏫 Courses
+
+* [AI for Good Specialization](https://www.deeplearning.ai/courses/ai-for-good/) @ DeepLearning.AI
+* [Machine Learning for Healthcare](https://mlhcmit.github.io/) @ MIT
+* [Machine Learning in Production](https://mlip-cmu.github.io/) @ Carnegie-Mellon University
+* [Responsible AI](https://github.com/aws-samples/aws-machine-learning-university-responsible-ai) @ Amazon MLU
+* [Robustness in Machine Learning](https://jerryzli.github.io/robust-ml-fall19.html) @ University of Washington
+* [Security and Privacy of Machine Learning](https://secml.github.io/) @ University of Virginia
+* [Trustworthy Artificial Intelligence](https://trustworthy-ml-course.github.io/) @ University of Michigan, Dearborn
+* [Trustworthy Machine Learning](https://scalabletrustworthyai.github.io) @ University of Tübingen
+
 ## <a id="videos"></a>📺 Videos
 
 <!-- TODO: include video summary -->
@@ -187,7 +227,10 @@ If you're in a hurry or just don't like reading, here's a podcast-style breakdow
 
 ## <a id="miscellaneous"></a>👾 Miscellaneous
 
+* [Awful AI](https://github.com/daviddao/awful-ai), a collection of scary AI use cases
 * [CISA's Roadmap for Artificial Intelligence](https://www.cisa.gov/ai)
+* [MITRE ATLAS to navigate threats to AI systems through real-world insights]()
+* [OWASP's Top 10 LLM Applications & Generative AI](https://genai.owasp.org/)
 * [Responsible AI at Stanford](https://uit.stanford.edu/security/responsibleai)
 * [RobustML](https://robust-ml.github.io/): community-run hub for learning about robust ML
 * [SEBoK Verification and Validation of Systems in Which AI is a Key Element](https://sebokwiki.org/wiki/Verification_and_Validation_of_Systems_in_Which_AI_is_a_Key_Element)
@@ -195,6 +238,7 @@ If you're in a hurry or just don't like reading, here's a podcast-style breakdow
 ## <a id="meta"></a>🏁 Meta
 
 * [safety-critical-systems](https://github.com/topics/safety-critical-systems) GitHub topic
+* [Awesome MLOps](https://github.com/kelvins/awesome-mlops): a curated list of awesome MLOps tools
 * [Awesome Production ML](https://github.com/EthicalML/awesome-production-machine-learning): a curated list of awesome open source libraries that will help you deploy, monitor, version, scale, and secure your production machine learning
 * [Awesome Trustworthy AI](https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning): list covering different topics in emerging research areas including but not limited to out-of-distribution generalization, adversarial examples, backdoor attack, model inversion attack, machine unlearning, &c.
 * [Awesome Responsible AI](https://github.com/AthenaCore/AwesomeResponsibleAI): a curated list of awesome academic research, books, code of ethics, courses, data sets, frameworks, institutes, maturity models, newsletters, principles, podcasts, reports, tools, regulations and standards related to Responsible, Trustworthy, and Human-Centered AI
