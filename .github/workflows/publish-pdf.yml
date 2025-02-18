@@ -11,6 +11,10 @@ jobs:
   convert-to-pdf:
     name: build-release-pdf
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pull-requests: write
+      repository-projects: write
     steps:
       - id: today
         run: echo "name=$(date +'%Y-%m-%d')" >> $GITHUB_ENV
