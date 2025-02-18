@@ -102,11 +102,25 @@ If you're in a hurry or just don't like reading, here's a podcast-style breakdow
 ## <a id="certifications"></a>📜 Certifications
 
 * (ISTQB) [Certified Tester AI Testing (CT-AI)](https://www.istqb.org/certifications/certified-tester-ai-testing-ct-ai/)
+* (USAII) [Certified AI Scientist (CAIS)](https://www.usaii.org/artificial-intelligence-certifications/certified-artificial-intelligence-scientist)
 
-## <a id="news"></a>📰 News
+## <a id="conferences"></a>🎤 Conferences
 
-* (elewit, 2024) [Are you aware of the challenges around AI in critical infrastructure management? Discover how it's transforming the industry](https://www.elewit.ventures/en/news/are-you-aware-of-challenges-around-ia-in-critical-infraestructure-management-discover-how-it-transforming-industry)
-* (Water Power Magazine, 2024) [DHS releases framework to guide AI use in critical infrastructure](https://www.waterpowermagazine.com/news/dhs-releases-framework-to-guide-ai-use-in-critical-infrastructure/)
+* (ELLIS) [Robust ML Workshop 2024](https://sites.google.com/view/robustml2024/home)
+* (MLOps Community) [AI in Production 2024](https://home.mlops.community/public/collections/ai-in-production-2024-02-18)
+* (MLOps Community) [LLMs in Production 2023](https://home.mlops.community/public/collections/llms-in-production-conference-part-iii-2023)
+* (Robust Intelligence) [ML:Integrity 2022](https://www.mlintegrityconference.com/)
+
+## <a id="courses"></a>👩‍🏫 Courses
+
+* [AI for Good Specialization](https://www.deeplearning.ai/courses/ai-for-good/) @ DeepLearning.AI
+* [Machine Learning for Healthcare](https://mlhcmit.github.io/) @ MIT
+* [Machine Learning in Production](https://mlip-cmu.github.io/) @ Carnegie-Mellon University
+* [Responsible AI](https://github.com/aws-samples/aws-machine-learning-university-responsible-ai) @ Amazon MLU
+* [Robustness in Machine Learning](https://jerryzli.github.io/robust-ml-fall19.html) @ University of Washington
+* [Security and Privacy of Machine Learning](https://secml.github.io/) @ University of Virginia
+* [Trustworthy Artificial Intelligence](https://trustworthy-ml-course.github.io/) @ University of Michigan, Dearborn
+* [Trustworthy Machine Learning](https://scalabletrustworthyai.github.io) @ University of Tübingen
 
 ## <a id="initiatives"></a>🤝 Initiatives
 
@@ -120,6 +134,11 @@ If you're in a hurry or just don't like reading, here's a podcast-style breakdow
 * (SustainML) [Sustainable Machine Learning](https://sustainml.eu/)
 * [Responsible AI Institute](https://www.responsible.ai/)
 * [Center for Responsible AI](https://centerforresponsible.ai/)
+
+## <a id="news"></a>📰 News
+
+* (elewit, 2024) [Are you aware of the challenges around AI in critical infrastructure management? Discover how it's transforming the industry](https://www.elewit.ventures/en/news/are-you-aware-of-challenges-around-ia-in-critical-infraestructure-management-discover-how-it-transforming-industry)
+* (Water Power Magazine, 2024) [DHS releases framework to guide AI use in critical infrastructure](https://www.waterpowermagazine.com/news/dhs-releases-framework-to-guide-ai-use-in-critical-infrastructure/)
 
 ## <a id="reports"></a>📋 Reports
 
@@ -184,24 +203,6 @@ If you're in a hurry or just don't like reading, here's a podcast-style breakdow
 * [`explodinggradients/ragas`](https://github.com/explodinggradients/ragas): objective metrics, intelligent test generation, and data-driven insights for LLM apps
 * [`pytorchfi/pytorchfi`](https://github.com/pytorchfi/pytorchfi): a runtime fault injection tool for PyTorch 🔥
 
-## <a id="conferences"></a>🎤 Conferences
-
-* (ELLIS) [Robust ML Workshop 2024](https://sites.google.com/view/robustml2024/home)
-* (MLOps Community) [AI in Production 2024](https://home.mlops.community/public/collections/ai-in-production-2024-02-18)
-* (MLOps Community) [LLMs in Production 2023](https://home.mlops.community/public/collections/llms-in-production-conference-part-iii-2023)
-* (Robust Intelligence) [ML:Integrity 2022](https://www.mlintegrityconference.com/)
-
-## <a id="courses"></a>👩‍🏫 Courses
-
-* [AI for Good Specialization](https://www.deeplearning.ai/courses/ai-for-good/) @ DeepLearning.AI
-* [Machine Learning for Healthcare](https://mlhcmit.github.io/) @ MIT
-* [Machine Learning in Production](https://mlip-cmu.github.io/) @ Carnegie-Mellon University
-* [Responsible AI](https://github.com/aws-samples/aws-machine-learning-university-responsible-ai) @ Amazon MLU
-* [Robustness in Machine Learning](https://jerryzli.github.io/robust-ml-fall19.html) @ University of Washington
-* [Security and Privacy of Machine Learning](https://secml.github.io/) @ University of Virginia
-* [Trustworthy Artificial Intelligence](https://trustworthy-ml-course.github.io/) @ University of Michigan, Dearborn
-* [Trustworthy Machine Learning](https://scalabletrustworthyai.github.io) @ University of Tübingen
-
 ## <a id="videos"></a>📺 Videos
 
 <!-- TODO: include video summary -->
@@ -222,6 +223,7 @@ If you're in a hurry or just don't like reading, here's a podcast-style breakdow
 
 ## <a id="working-groups"></a>👷🏼 Working Groups
 
+* (CWE) [Artificial Intelligence WG](https://cwe.mitre.org/community/working_groups.html)
 * (EUROCAE) [WG-114 / Artificial Intelligence](https://eurocae.net/news/posts/2019/june/new-working-group-wg-114-artificial-intelligence/)
 * (Linux Foundation) [ONNX Safety-Related Profile](https://github.com/ericjenn/working-groups/tree/ericjenn-srpwg-wg1/safety-related-profile)
 
