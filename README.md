@@ -11,7 +11,7 @@ In here, you'll find references on safe and responsible AI, reliable ML, AI test
 
 You can keep up to date by watching this GitHub repo 🤩
 
-<img src="ai4sc.png" width="70%">
+<img src="images/ai4sc.png" width="70%">
 
 ## Table of Contents
 

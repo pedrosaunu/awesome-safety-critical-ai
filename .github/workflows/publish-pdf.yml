@@ -1,0 +1,39 @@
+# .github/workflows/publish-pdf.yml
+
+name: Publish PDF
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 1 * *"
+
+jobs:
+  convert-to-pdf:
+    name: build-release-pdf
+    runs-on: ubuntu-latest
+    steps:
+      - id: today
+        run: echo "name=$(date +'%Y-%m-%d')" >> $GITHUB_ENV
+      - name: 📂 Checkout
+        uses: actions/checkout@v4
+      - name: ✨ Convert
+        uses: baileyjm02/markdown-to-pdf@v1
+        with:
+          input_path: README.md
+          output_dir: pdfs
+          images_dir: images
+          image_import: images
+          build_html: false
+      - name: 🖲️ Upload
+        uses: actions/upload-artifact@v3
+        with:
+          name: release
+          path: pdfs
+      - name: 🚀 Release
+        uses: marvinpinto/action-automatic-releases@latest
+        with:
+          repo_token: ${{ secrets.GITHUB_TOKEN }}
+          automatic_release_tag: release-${{ env.name }}
+          title: release-${{ env.name }}
+          files: pdfs/README.pdf
+          prerelease: false
