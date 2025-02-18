@@ -44,7 +44,7 @@ You can keep up to date by watching this GitHub repo 🤩
 
 ## <a id="tldr"></a>🏃 TLDR
 
-If you're in a hurry or just don't like reading, here's a podcast-style breakdown created with [NotebookLM](https://notebooklm.google/) (courtesy of [Pedro Nunes](https://www.linkedin.com/in/umpedronunes/) 🙏)
+If you're in a hurry or just don't like reading, here's a podcast-style breakdown created with [NotebookLM](https://notebooklm.google/) (courtesy of [Pedro Nunes](https://github.com/pedrosaunu) 🙏)
 
 <a href="https://soundcloud.com/safety-critical-podcasts/safety-critical-ai-101-podcast"><img src="images/safety_critical_ai_podcast.png"/></a>
 
