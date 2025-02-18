@@ -243,7 +243,7 @@ If you're in a hurry or just don't like reading, here's a podcast-style breakdow
 * [Awesome Trustworthy AI](https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning): list covering different topics in emerging research areas including but not limited to out-of-distribution generalization, adversarial examples, backdoor attack, model inversion attack, machine unlearning, &c.
 * [Awesome Responsible AI](https://github.com/AthenaCore/AwesomeResponsibleAI): a curated list of awesome academic research, books, code of ethics, courses, data sets, frameworks, institutes, maturity models, newsletters, principles, podcasts, reports, tools, regulations and standards related to Responsible, Trustworthy, and Human-Centered AI
 * [Awesome Safety Critical](https://github.com/stanislaw/awesome-safety-critical): a list of resources about programming practices for writing safety-critical software
-* [Common Weakness Enumeration (CWE)](https://cwe.mitre.org)
+* [Common Weakness Enumeration (CWE)](https://cwe.mitre.org): discover AI common weaknesses such as improper validation of generative AI output
 
 ## About Us
 
