@@ -5,4 +5,4 @@ dirs:
   - .
 ignorePatterns:
   # ignore ToC links
-  - pattern: "^#[a-z\-]*"
+  - pattern: "^#[-a-z]*"
