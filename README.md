@@ -43,18 +43,33 @@ You can keep up to date by watching this GitHub repo 🤩
 ## <a id="articles"></a>📝 Articles
 
 * (Bach *et al.*, 2024) [Unpacking Human-AI Interaction in Safety-Critical Industries: A Systematic Literature Review](https://ieeexplore.ieee.org/document/10620168)
+* (Belani, Vukovic & Car, 2019) [Requirements Engineering Challenges in Building AI-Based Complex Systems](https://arxiv.org/abs/1908.11791)
+* (Bolchini, Cassano & Miele, 2024) [Resilience of Deep Learning applications: a systematic literature review of analysis and hardening techniques](https://arxiv.org/abs/2309.16733)
 * (Bloomfield & Rushby, 2025) [Where AI Assurance Might Go Wrong: Initial lessons from engineering of critical systems](https://arxiv.org/abs/2502.03467)
+* (Breck *et al.*, 2016) [What’s your ML test score? A rubric for ML production systems](https://research.google/pubs/whats-your-ml-test-score-a-rubric-for-ml-production-systems/)
 * (Bullwinkel *et al.*, 2025) [Lessons From Red Teaming 100 Generative AI Products](https://arxiv.org/abs/2501.07238)
 * (Cummings, 2021) [Rethinking the Maturity of Artificial Intelligence in Safety-Critical Settings](https://ojs.aaai.org/aimagazine/index.php/aimagazine/article/view/7394)
+* (Dutta *et al.*, 2017) [Output range analysis for deep feedforward neural networks](https://arxiv.org/abs/1709.09130)
+* (Faria, 2018) [Machine learning safety: An overview](https://www.researchgate.net/profile/Jose-Faria-3/publication/320567319_Machine_Learning_Safety_An_Overview/links/59f37efda6fdcc075ec34986/Machine-Learning-Safety-An-Overview.pdf)
 * (Johnson, 2018) [The Increasing Risks of Risk Assessment: On the Rise of Artificial Intelligence and Non-Determinism in Safety-Critical Systems](https://www.dcs.gla.ac.uk/~johnson/papers/SCSC_18.pdf)
+* (Kuwajima, Yasuoka & Nakae, 2020) [Engineering problems in machine learning systems](https://link.springer.com/article/10.1007/s10994-020-05872-w)
+* (Leofante *et al.*, 2018) [Automated Verification of Neural Networks: Advances, Challenges and Perspectives](https://arxiv.org/abs/1805.09938)
 * (Lubana, 2024) [Understanding and Identifying Challenges in Design of Safety-Critical AI Systems](https://deepblue.lib.umich.edu/handle/2027.42/196092)
+* (Luckcuck *et al.*, 2019) [Formal Specification and Verification of Autonomous Robotic Systems: A Survey](https://arxiv.org/abs/1807.00048)
+* (Lwakatare *et al.*, 2020) [Large-scale machine learning systems in real-world industrial settings: A review of challenges and solutions](https://www.sciencedirect.com/science/article/abs/pii/S0950584920301373)
 * (Mach *et al.*, 2021) [Architectural Patterns for Integrating AI Technology into Safety-Critical System](https://dl.acm.org/doi/fullHtml/10.1145/3489449.3490014)
 * (Mariani *et al.*, 2023) [Trustworthy AI - Part I](https://www.semanticscholar.org/paper/Trustworthy-AI-Part-1-Mariani-Rossi/2e550e23511711dae2689322741f9c113c6c506f), [II](https://www.semanticscholar.org/paper/Trustworthy-AI-Part-II-Mariani-Rossi/9f354b3a88e6d6512d22ec152e6c6131a1e44cab) and [III](https://www.semanticscholar.org/paper/Trustworthy-AI-Part-III-Mariani-Rossi/ff446b46c5b9b4c0d18849d479fe5645f6182a36)
 * (Perez-Cerrolaza *et al.*, 2024) [Artificial Intelligence for Safety-Critical Systems in Industrial and Transportation Domains: A Survey](https://dl.acm.org/doi/10.1145/3626314)
+* (Picardi *et al.*, 2020) [Assurance Argument Patterns and Processes for Machine Learning in Safety-Related Systems](https://ceur-ws.org/Vol-2560/paper17.pdf)
 * (Ramos *et al.*, 2024) [Collaborative Intelligence for Safety-Critical Industries: A Literature Review](https://www.mdpi.com/2078-2489/15/11/728)
 * (Sculley *et al.*, 2015) [Hidden Technical Debt in Machine Learning Systems](https://proceedings.neurips.cc/paper/2015/file/86df7dcfd896fcaf2674f757a2463eba-Paper.pdf)
+* (Seshia, Sadigh & Sastry, 2020) [Towards Verified Artificial Intelligence](https://arxiv.org/abs/1606.08514)
 * (Tambon *et al.*, 2021) [How to Certify Machine Learning Based Safety-critical Systems? A Systematic Literature Review](https://arxiv.org/abs/2107.12045)
 * (Wang & Chung, 2021) [Artificial intelligence in safety-critical systems: a systematic review](https://www.semanticscholar.org/paper/Artificial-intelligence-in-safety-critical-systems%3A-Wang-Chung/dd56d26b7efd78651f9abf530741da8de7ca1a69)
+* (Webster *et al.*, 2019) [A corroborative approach to verification and validation of human-robot teams](https://arxiv.org/pdf/1608.07403)
+* (Yu *et al.*, 2024) [A Survey on Failure Analysis and Fault Injection in AI Systems](https://arxiv.org/abs/2407.00125)
+* (Zhang & Li, 2020) [Testing and verification of neural-network-based safety-critical control software: A systematic literature review](https://www.sciencedirect.com/science/article/pii/S0950584920300471)
+* (Zhang *et al.*, 2020) [Machine Learning Testing: Survey, Landscapes and Horizons](https://ieeexplore.ieee.org/document/9000651)
 
 ## <a id="blogs"></a>✍️ Blogs
 
@@ -68,6 +83,7 @@ You can keep up to date by watching this GitHub repo 🤩
 * (Chen *et al.*, 2022) [Reliable Machine Learning: Applying SRE Principles to ML in Production](https://www.amazon.com/Reliable-Machine-Learning-Principles-Production/dp/1098106229)
 * (Huang, Jin & Ruan, 2023) [Machine Learning Safety](https://link.springer.com/book/10.1007/978-981-19-6814-3)
 * (Huyen, 2022) [Designing Machine Learning Systems: An Iterative Process for Production-Ready Applications](https://www.amazon.com/Designing-Machine-Learning-Systems-Production-Ready/dp/1098107969?&_encoding=UTF8&tag=chiphuyen-20&linkCode=ur2&linkId=0a1dbab0e76f5996e29e1a97d45f14a5&camp=1789&creative=9325)
+* (Joseph *et al.*, 2019) [Adversarial Machine Learning](https://www.amazon.com/Adversarial-Machine-Learning-Anthony-Joseph/dp/1107043468)
 * (Tran, 2024) [Artificial Intelligence for Safety and Reliability Engineering: Methods, Applications, and Challenges](https://link.springer.com/book/10.1007/978-3-031-71495-5)
 
 ## <a id="certifications"></a>📜 Certifications
@@ -78,6 +94,7 @@ You can keep up to date by watching this GitHub repo 🤩
 
 * [`daviddao/awful-ai`](https://github.com/daviddao/awful-ai): a curated list to track current scary usages of AI hoping to raise awareness to its misuses in society
 * [`explodinggradients/ragas`](https://github.com/explodinggradients/ragas): objective metrics, intelligent test generation, and data-driven insights for LLM apps
+* [`pytorchfi/pytorchfi`](https://github.com/pytorchfi/pytorchfi): a runtime fault injection tool for PyTorch 🔥
 * [`RobustBench/robustbench`](https://github.com/RobustBench/robustbench): a standardized adversarial robustness benchmark
 * [`trust-ai/SafeBench`](https://github.com/trust-ai/SafeBench): a benchmark for evaluating Autonomous Vehicles in safety-critical scenarios
 
@@ -128,10 +145,13 @@ You can keep up to date by watching this GitHub repo 🤩
 
 ## <a id="standards"></a>📐 Standards
 
+* [ANSI/UL 4600](https://users.ece.cmu.edu/~koopman/ul4600/index.html) > Standard for Evaluation of Autonomous Products
+* [IEEE 7009-2024](https://standards.ieee.org/ieee/7009/7096/) > IEEE Standard for Fail-Safe Design of Autonomous and Semi-Autonomous Systems
 * [ISO/IEC 23053:2022](https://www.iso.org/standard/74438.html) > Framework for Artificial Intelligence (AI) Systems Using Machine Learning (ML)
 * [ISO/IEC 23894:2023](https://www.iso.org/standard/77304.html) > Information technology — Artificial intelligence — Guidance on risk management
 * [ISO/IEC 38507:2022](https://www.iso.org/standard/56641.html) > Information technology — Governance of IT — Governance implications of the use of artificial intelligence by organizations
 * [ISO/IEC 42001:2023](https://www.iso.org/standard/81230.html) > Information technology — Artificial intelligence — Management system
+* [SAE G-34](https://standardsworks.sae.org/standards-committees/g-34-artificial-intelligence-aviation) > Artificial Intelligence in Aviation
 
 ## <a id="videos"></a>📺 Videos
 
@@ -161,6 +181,7 @@ You can keep up to date by watching this GitHub repo 🤩
 * [CISA's Roadmap for Artificial Intelligence](https://www.cisa.gov/ai)
 * [Responsible AI at Stanford](https://uit.stanford.edu/security/responsibleai)
 * [RobustML](https://robust-ml.github.io/): community-run hub for learning about robust ML
+* [SEBoK Verification and Validation of Systems in Which AI is a Key Element](https://sebokwiki.org/wiki/Verification_and_Validation_of_Systems_in_Which_AI_is_a_Key_Element)
 
 ## <a id="meta"></a>🏁 Meta
 
