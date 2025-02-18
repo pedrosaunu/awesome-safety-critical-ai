@@ -32,6 +32,7 @@ You can keep up to date by watching this GitHub repo 🤩
 * [👷🏼 Working Groups](#working-groups)
 * [👾 Miscellaneous](#miscellaneous)
 * [🏁 Meta](#meta)
+* [About Us](#about-us)
 * [Contributions](#contributions)
 * [Citation](#citation)
 
@@ -192,11 +193,25 @@ You can keep up to date by watching this GitHub repo 🤩
 * [Awesome Responsible AI](https://github.com/AthenaCore/AwesomeResponsibleAI): a curated list of awesome academic research, books, code of ethics, courses, data sets, frameworks, institutes, maturity models, newsletters, principles, podcasts, reports, tools, regulations and standards related to Responsible, Trustworthy, and Human-Centered AI
 * [Awesome Safety Critical](https://github.com/stanislaw/awesome-safety-critical): a list of resources about programming practices for writing safety-critical software
 
+## About Us
+
+[Critical Software](https://criticalsoftware.com/en) is a Portuguese company that specializes in safety- and mission-critical software.
+
+Our mission is to **build a better and safer world** by creating safe and reliable solutions for demanding industries like Space, Energy, Banking, Defense and Medical.
+
+We get to work every day with a variety of high-profile companies, such as Airbus, Alstom, BMW, ESA, NASA, Siemens, and Thales.
+
+If it's true that *"everything fails all the time"*, the stuff we do has to fail *less* often... or **not** at all.
+
+> **Are you ready to begin your Critical adventure?** 🚀 Check out our [open roles](https://careers.criticalsoftware.com/).
+
+<img src="images/what_makes_us.png"/>
+
 ## Contributions
 
-If you'd like to contribute to this repository, please read our **guidelines** first.
+📣 We're actively looking for maintainers and contributors: we welcome [issues](https://github.com/JGalego/awesome-safety-critical-ai/issues) and [pull requests](https://github.com/JGalego/awesome-safety-critical-ai/pulls)!
 
-We welcome [issues](https://github.com/JGalego/awesome-safety-critical-ai/issues) and [pull requests](https://github.com/JGalego/awesome-safety-critical-ai/pulls)!
+If you'd like to contribute to this repository, please read our **guidelines**.
 
 ## Citation
 
