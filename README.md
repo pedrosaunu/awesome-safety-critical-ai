@@ -193,7 +193,7 @@ You can keep up to date by watching this GitHub repo 🤩
 
 ## Contributions
 
-If you'd like to contribute to this repository, please read our [guidelines](CONTRIBUTING.md).
+If you'd like to contribute to this repository, please read our **guidelines** first.
 
 We welcome [issues](https://github.com/JGalego/awesome-safety-critical-ai/issues) and [pull requests](https://github.com/JGalego/awesome-safety-critical-ai/pulls)!
 
