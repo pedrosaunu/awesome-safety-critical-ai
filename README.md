@@ -29,6 +29,7 @@ This isn't just another (awesome) list. It's a call to action!
 * [🤝 Initiatives](#initiatives)
 * [📋 Reports](#reports)
 * [🛣️ Roadmaps](#roadmaps)
+* [🛡️ Frontier Model Safety Frameworks](#frontier-frameworks)
 * [📐 Standards](#standards)
 * [🛠️ Tools](#tools)
 * [📺 Videos](#videos)
@@ -277,6 +278,7 @@ If you're in a hurry or just don't like reading, here's a podcast-style breakdow
 * (Johnson, 2018) [The Increasing Risks of Risk Assessment: On the Rise of Artificial Intelligence and Non-Determinism in Safety-Critical Systems](https://www.dcs.gla.ac.uk/~johnson/papers/SCSC_18.pdf)
 * (Khattak *et al.*, 2024) [AI-supported estimation of safety critical wind shear-induced aircraft go-around events utilizing pilot reports](https://www.cell.com/heliyon/fulltext/S2405-8440(24)04600-0)
 * (Kiseleva *et al.*, 2025) [The EU AI Act, Stakeholder Needs, and Explainable AI: Aligning Regulatory Compliance in a Clinical Decision Support System](https://arxiv.org/pdf/2505.20311)
+* (Kates *et al.*, 2025) [Datasets and Evaluators for AI Safety – AAAI 2025 Workshop Summary](https://doi.org/10.56645/jmde.v19i45.907)
 * (Kuwajima, Yasuoka & Nakae, 2020) [Engineering problems in machine learning systems](https://link.springer.com/article/10.1007/s10994-020-05872-w)
 * (Leofante *et al.*, 2018) [Automated Verification of Neural Networks: Advances, Challenges and Perspectives](https://arxiv.org/abs/1805.09938)
 * (Leyli-Abadi *et al.*, 2025) [A Conceptual Framework for AI-based Decision Systems in Critical Infrastructures](https://www.arxiv.org/abs/2504.16133)
@@ -292,6 +294,7 @@ If you're in a hurry or just don't like reading, here's a podcast-style breakdow
 * (Mariani *et al.*, 2023) [Trustworthy AI - Part I](https://www.semanticscholar.org/paper/Trustworthy-AI-Part-1-Mariani-Rossi/2e550e23511711dae2689322741f9c113c6c506f), [II](https://www.semanticscholar.org/paper/Trustworthy-AI-Part-II-Mariani-Rossi/9f354b3a88e6d6512d22ec152e6c6131a1e44cab) and [III](https://www.semanticscholar.org/paper/Trustworthy-AI-Part-III-Mariani-Rossi/ff446b46c5b9b4c0d18849d479fe5645f6182a36)
 * (Meyers, Löfstedt & Elmroth, 2023) [Safety-critical computer vision: an empirical survey of adversarial evasion attacks and defenses on computer vision systems](https://link.springer.com/article/10.1007/s10462-023-10521-4)
 * (Mitchell *et al.*, 2019) [Model cards for model reporting](https://arxiv.org/abs/1810.03993)
+* (Morey *et al.*, 2025) [Empirically derived evaluation requirements for responsible deployments of AI in safety-critical settings](https://doi.org/10.1038/s41746-025-01784-y)
 * (Nahar *et al.*, 2022) [Collaboration challenges in building ML-enabled systems: communication, documentation, engineering, and process](https://dl.acm.org/doi/10.1145/3510003.3510209)
 * (Ozkaya, 2020) [What Is Really Different in Engineering AI-Enabled Systems?](https://ieeexplore.ieee.org/document/9121629)
 * (Papernot *et al.*, 2018) [SoK: Security and Privacy in Machine Learning](https://ieeexplore.ieee.org/document/8406613)
@@ -343,11 +346,13 @@ If you're in a hurry or just don't like reading, here's a podcast-style breakdow
 * (Bits & Atoms, 2017) [Designing Effective Policies for Safety-Critical AI](https://bitsandatoms.co/effective-policies-for-safety-critical-ai/)
 * (Bits & Chips, 2024) [Verifying and validating AI in safety-critical systems](https://bits-chips.com/article/verifying-and-validating-ai-in-safety-critical-systems/)
 * (Clear Prop, 2023) [Unpacking Human-AI Interaction in Safety-Critical Industries: A Systematic Literature Review](https://pamirsevincel.substack.com/p/clear-prop-9-forum-79-paper-spotlight)
+* (CISA, 2025) [AI Data Security Alert](https://www.cisa.gov/news-events/alerts/2025/05/22/aisecurity-data)
 * (CleverHans Lab, 2016) [Breaking things is easy](https://cleverhans.io/security/privacy/ml/2016/12/16/breaking-things-is-easy.html)
 * (DeepMind, 2018) [Building safe artificial intelligence: specification, robustness, and assurance](https://deepmindsafetyresearch.medium.com/building-safe-artificial-intelligence-52f5f75058f1)
 * (Doing AI Governance, 2025) [AI Governance Mega-map: Safe, Responsible AI and System, Data & Model Lifecycle](https://www.ethos-ai.org/p/ai-governance-mega-map-lifecycle)
 * (EETimes, 2023) [Can We Trust AI in Safety Critical Systems?](https://www.eetimes.com/can-we-trust-ai-in-safety-critical-systems/)
 * (Embedded, 2024) [The impact of AI/ML on qualifying safety-critical software](https://www.embedded.com/the-impact-of-ai-ml-on-qualifying-safety-critical-software/)
+* (FairNow, 2025) [How AI Regulations Are Evolving in 2025](https://fairnow.com/blog/ai-regulations-2025)
 * (Forbes, 2022) [Part 2: Reflections On AI (Historical Safety Critical Systems)](https://www.forbes.com/sites/rahulrazdan/2022/03/13/reflections-on-a-decade-of-ai-part-2/)
 * (Gartner, 2021) [Gartner Identifies the Top Strategic Technology Trends for 2021 ](https://www.gartner.com/en/newsroom/press-releases/2020-10-19-gartner-identifies-the-top-strategic-technology-trends-for-2021)
 * (Ground Truths, 2025) [When Doctors With AI Are Outperformed by AI Alone](https://www.nytimes.com/2025/02/02/opinion/ai-doctors-medicine.html?unlocked_article_code=1.t04.AeZg.kT0qka6kerAi&smid=url-share)
@@ -359,6 +364,7 @@ If you're in a hurry or just don't like reading, here's a podcast-style breakdow
 * (Protect AI, 2025) [The Expanding Role of Red Teaming in Defending AI Systems](https://protectai.com/blog/expanding-role-red-teaming-defending-ai-systems)
 * (restack, 2025) [Safety In Critical AI Systems](https://www.restack.io/p/ai-application-safety-protocols-answer-safety-in-critical-ai-systems-cat-ai)
 * (Safety4Sea, 2024) [The risks and benefits of AI translations in safety-critical industries](https://safety4sea.com/the-risks-and-benefits-of-ai-translations-in-safety-critical-industries/)
+* (SANS, 2025) [Why You Need an AI Security Program](https://www.sans.org/blog/why-you-need-an-ai-security-program/)
 * (SE4ML, 2025) [Machine Learning Engineering Practices in Recent Years: Trends and Challenges](https://se-ml.github.io/blog/2025/five-y/)
 * (Space and Time, 2024) [Verifiable LLMs for the Modern Enterprise](https://www.spaceandtime.io/blog/verifiable-llms-for-the-modern-enterprise)
 * (think AI, 2024) [Artificial Intelligence in Safety-Critical Systems](https://medium.com/think-ai/ai-in-safety-critical-systems-6b778f26c965)
@@ -455,11 +461,13 @@ If you're in a hurry or just don't like reading, here's a podcast-style breakdow
 * (Harvard University) [Initial guidelines for the use of Generative AI tools at Harvard](https://www.huit.harvard.edu/ai/guidelines)
 * (Homeland Security) [Roles and Responsibilities Framework for Artificial Intelligence in Critical Infrastructure](https://www.dhs.gov/publication/roles-and-responsibilities-framework-artificial-intelligence-critical-infrastructure)
 * (Homeland Security) [Safety and Security Guidelines for Critical Infrastructure Owners and Operators](https://www.dhs.gov/publication/safety-and-security-guidelines-critical-infrastructure-owners-and-operators)
+* (Homeland Security) [Generative AI Public Sector Playbook](https://www.dhs.gov/sites/default/files/2025-01/generative-ai-public-sector-playbook.pdf)
 * (Inter-Parliamentary Union) [Guidelines for AI in Parliaments](https://www.ipu.org/ai-guidelines)
 * (Microsoft) [Responsible AI: Principles and Approach](https://www.microsoft.com/en-us/ai/principles-and-approach)
 * (Ministry of Defense) [JSP 936: Dependable Artificial Intelligence (AI) in defense (part 1: directive)](https://www.gov.uk/government/publications/jsp-936-dependable-artificial-intelligence-ai-in-defence-part-1-directive)
 * (NCSC) [Guidelines for secure AI system development](https://www.ncsc.gov.uk/collection/guidelines-secure-ai-system-development)
 * (OECD) [AI Principles](https://oecd.ai/en/ai-principles)
+* (SANS) [Why You Need an AI Security Program](https://www.sans.org/blog/why-you-need-an-ai-security-program/)
 * (Stanford) [Responsible AI at Stanford](https://uit.stanford.edu/security/responsibleai)
 
 ## <a id="initiatives"></a>🤝 Initiatives
@@ -490,14 +498,27 @@ If you're in a hurry or just don't like reading, here's a podcast-style breakdow
 * (EASA) [Artificial Intelligence Roadmap](https://www.easa.europa.eu/en/domains/research-innovation/ai): a human-centric approach to AI in aviation
 * (FAA) [Roadmap for Artificial Intelligence Safety Assurance](https://www.faa.gov/aircraft/air_cert/step/roadmap_for_AI_safety_assurance)
 * (RAILS) [Roadmaps for AI Integration in the Rail Sector](https://rails-project.eu/)
+## <a id="frontier-frameworks"></a>🛡️ Frontier Model Safety Frameworks (2024–25)
+
+* (Amazon) [Frontier Model Safety Framework](https://d1.awsstatic.com/whitepapers/frontier-model-safety-framework.pdf)
+* (Anthropic) [Transparency Framework / The need for transparency in Frontier AI](https://www.anthropic.com/news/the-need-for-transparency-in-frontier-ai)
+* (Cohere) [Secure AI Frontier Model Framework](https://cohere.ai/blog/secure-ai-frontier-model-framework)
+* (Frontier Model Forum) [Technical reports and briefs](https://www.frontiermodelforum.org)
+* (G42) [Frontier AI Safety Framework](https://www.g42.ai/g42-frontier-ai-safety-framework)
+* (Magic) [AGI Readiness Policy](https://magic.dev/blog/agi-readiness-policy)
+* (Microsoft) [Frontier Governance Framework](https://www.microsoft.com/en-us/about/ai-frontier-governance-framework)
+* (Naver) [AI Safety Framework](https://clova.ai/ai-safety-framework)
+* (xAI) [Risk Management Framework (Draft)](https://x.ai/blog/xai-risk-management-framework)
 
 ## <a id="reports"></a>📋 Reports
 
 <small>[🔼 Back to top](#toc)</small>
 
 * (Air Street Capital) [State of AI Report 2024](https://www.stateof.ai/)
+* (California) [California Frontier AI Policy report](https://www.gov.ca.gov/wp-content/uploads/2025/06/June-17-2025-%E2%80%93-The-California-Report-on-Frontier-AI-Policy.pdf)
 * (CLTC) [The Flight to Safety-Critical AI: Lessons in AI Safety from the Aviation Industry](https://cltc.berkeley.edu/publication/new-report-the-flight-to-safety-critical-ai-lessons-in-ai-safety-from-the-aviation-industry/)
 * (FLI) [AI Safety Index 2024](https://futureoflife.org/document/fli-ai-safety-index-2024/)
+* (FLI) [AI Safety Index: Summer 2025](https://futureoflife.org/document/fli-ai-safety-index-summer-2025/)
 * (Google) [Responsible AI Progress Report 2025](https://ai.google/static/documents/ai-responsibility-update-published-february-2025.pdf)
 * (Gov.UK) [International AI Safety Report 2025](https://www.gov.uk/government/publications/international-ai-safety-report-2025)
 * (LangChain) [State of AI Agents](https://www.langchain.com/stateofaiagents)
@@ -505,6 +526,7 @@ If you're in a hurry or just don't like reading, here's a podcast-style breakdow
 * (Microsoft) [Responsible AI Transparency Report 2024](https://www.microsoft.com/en-us/corporate-responsibility/responsible-ai-transparency-report)
 * (NASA) [Examining Proposed Uses of LLMs to Produce or Assess Assurance Arguments](https://ntrs.nasa.gov/api/citations/20250001849/downloads/NASA-TM-20250001849.pdf)
 * (PwC) [US Responsible AI Survey](https://www.pwc.com/us/en/tech-effect/ai-analytics/responsible-ai-survey.html)
+* (U.S. White House) [America's AI Action Plan](https://www.whitehouse.gov/briefing-room/statements-releases/2025/07/24/americas-ai-action-plan/)
 
 ## <a id="standards"></a>📐 Standards
 
@@ -553,6 +575,7 @@ If you're in a hurry or just don't like reading, here's a podcast-style breakdow
 * [`facebook/Ax`](https://github.com/facebook/Ax): an accessible, general-purpose platform for understanding, managing, deploying, and automating adaptive experiments
 * [`great-expectations/great_expectations`](https://github.com/great-expectations/great_expectations): always know what to expect from your data
 * [`iterative/dvc`](https://github.com/iterative/dvc): a command line tool and VS Code Extension to help you develop reproducible ML projects
+* [`MLCommons/croissant`](https://github.com/MLCommons/croissant): metadata tooling for FAIR and reproducible datasets
 * [`pydantic/pydantic`](https://github.com/pydantic/pydantic): data validation using Python type hints
 * [`tensorflow/data-validation`](https://github.com/tensorflow/data-validation): a library for exploring and validating ML data
 * [`unionai-oss/pandera`](https://github.com/unionai-oss/pandera): data validation for scientists, engineers, and analysts seeking correctness
@@ -560,6 +583,7 @@ If you're in a hurry or just don't like reading, here's a podcast-style breakdow
 ### Model Evaluation
 
 * [`confident-ai/deepeval`](https://github.com/confident-ai/deepeval): a simple-to-use, open-source LLM evaluation framework, for evaluating and testing LLM systems
+* [`mlcommons/ailuminate`](https://github.com/mlcommons/ailuminate): benchmark suite assessing AI systems across common safety hazards
 * [`RobustBench/robustbench`](https://github.com/RobustBench/robustbench): a standardized adversarial robustness benchmark
 * [`trust-ai/SafeBench`](https://github.com/trust-ai/SafeBench): a benchmark for evaluating Autonomous Vehicles in safety-critical scenarios
 
